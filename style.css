@@ -511,3 +511,26 @@ background: linear-gradient(90deg,#007cf0,#00dfd8);
 
 text-shadow:2px 2px 4px rgba(0,0,0,0.2);
 }
+@media (max-width: 768px){
+
+.tool-grid{
+grid-template-columns:1fr;
+gap:20px;
+padding:20px;
+}
+
+.logo-header{
+flex-direction:column;
+text-align:center;
+}
+
+.logo-header img{
+width:90px;
+}
+
+.logo-header h1{
+font-size:36px;
+}
+
+}
+
