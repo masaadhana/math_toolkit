@@ -38,27 +38,6 @@ The website is fully responsive and works across:
 - Linear and quadratic equation solving
 - Unit conversions for multiple categories
 
-## 📂 Project Structure
-math_toolkit
-│
-├── index.html
-├── style.css
-│
-├── js
-│ ├── basic.js
-│ ├── scientific.js
-│ ├── graph.js
-│ ├── matrix.js
-│ ├── equation.js
-│ └── converter.js
-│
-└── pages
-├── basic.html
-├── scientific.html
-├── graph.html
-├── matrix.html
-├── equation.html
-└── converter.html
 
 ## 👩‍💻 Author
 
