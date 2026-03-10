@@ -535,9 +535,15 @@ font-size:36px;
 }
 @media (max-width: 768px){
 
+.tool-grid{
+grid-template-columns: 1fr;
+}
+
+}
+@media (max-width: 768px){
+
 .container{
 grid-template-columns:1fr;
 }
 
 }
-
